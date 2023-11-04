@@ -1,12 +1,12 @@
 // import logo from './logo.svg';
 import './App.css';
-import Home from './component/Home';
+import Home from './components/Home';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import DrugAddition from './component/DrugAddition';
-import DrugsAdded from './component/DrugsAdded';
-import HomePage from './component/HomePage';
-import LogIn from './component/LogIn';
-import SignUp from './component/SignUp';
+import DrugAddition from './components/DrugAddition';
+import DrugsAdded from './components/DrugsAdded';
+import HomePage from './components/HomePage';
+import LogIn from './components/LogIn';
+import SignUp from './components/SignUp';
 
 
 function App() {
