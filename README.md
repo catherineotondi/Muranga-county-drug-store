@@ -1,5 +1,5 @@
 
-#MURANGA COUNTY DRUG STORE WEB APPLICATION
+## MURANGA COUNTY DRUG STORE WEB APPLICATION
 This Web application is a store management web application that allows a user to sign up , then log in and one is able to view the drugs in store, delete drugs that are out of stock and also update details of the existing drugs.
 
 ## Acknowledgements
